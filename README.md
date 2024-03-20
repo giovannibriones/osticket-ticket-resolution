@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img alt="1" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b1eeb928-eb01-42ce-b0b2-f081d93274af"/>
+
 </p>
 
 <h1> osTicket: Ticket Resolution and Troubleshooting </h1>
@@ -59,7 +60,8 @@
 
 <br>
 
-<img width="593" alt="James Holden first ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a0e9bf33-4860-4dbf-bd95-78abbf24e23e">
+<img width="593" alt="2" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/88584131-ae93-4623-804a-72763854e930">
+
 
 <br>
 <br>
@@ -75,14 +77,16 @@
 - Once verification is done, modify James's user profile and assign the appropriate administrative privileges.
 - Ensure that his machine allows him remote access
 
-<img width="300" alt="rdp" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/84e3c864-1470-4f0c-af22-3135d8694dee">
+<img width="300" alt="3" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/aba767a8-c7b2-42c6-82a3-dfaa70d3f1a8">
+
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
 
 <p><strong>Configure specific permissions based on James's approved request, such as adding him to the Remote Desktop Users Group</strong></p>
 
-<img width="300" alt="3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5a6d9283-55be-4dcd-b231-00f24f59a361">
+<img width="300" alt="4" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/d80d9c28-d583-482a-a568-c546dac40360">
+
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -97,7 +101,8 @@
 - Document the completion of the admin rights activation in osTicket.
 -Close the ticket, indicating that the task has been completed, and provide documentation for future audits or inquiries.
 
-<img width="592" alt="Done w james " src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ceafdb4f-46bf-4e2a-abab-3368e586fdb6">
+<img width="592" alt="5" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/890ddf6a-537a-4f7f-a1f8-1b7baf41d3b9">
+
 
 
 <p><strong>.</strong></p>
@@ -116,7 +121,7 @@
 
 <br>
 
-<img width="593" alt="Camina ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/da8ff8c8-c719-4948-97bf-d0c98f192d32">
+<img width="593" alt="6" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/687afb1c-76bf-4de4-b9bc-22568a3f4772">
 
 <br>
 <br>
@@ -128,7 +133,8 @@
 - Engage in a threaded discussion to gather more information about the specific performance issues Camina is encountering.
 - Request details such as recent software installations, background processes, and any error messages she might have encountered
 
-<img width="592" alt="reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/c4f43105-eee5-4424-8c15-bd366b31b75f">
+<img width="592" alt="7" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/cda80fbc-d69e-49b5-81a6-43c5cf550ba1">
+
 
 
 <h5> Remote Diagnosis:</h5>
@@ -143,7 +149,7 @@
 
 - Go to add or remove programs and delete any unnecessary applications
 
-<img width="400" alt="add or remove" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/f01f5105-360a-4262-9481-3b7fff5b7a2f">
+<img width="400" alt="8" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/fa48f047-8783-4000-8219-93a4f96b7be9">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -153,7 +159,7 @@
 
 - Empty the recycling bin to free up some disk space
 
-<img width="500" alt="recycle" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/0af4e499-0f29-4479-a88d-f12ceeda5867">
+<img width="500" alt="9" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b73891c7-69f7-4b12-9722-2eb14b0fdbdc">
 
 
 <p><strong>.</strong></p>
@@ -161,7 +167,8 @@
 
 <p><strong>Open the Disk Cleanup application and perform a cleanup.</strong></p>
 
-<img width="500" alt="cleanup" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7397a276-11ec-44ae-be1e-fcf6de194f2b">
+<img width="500" alt="10" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/4b86c677-7f28-4261-b345-b46340195984">
+
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -170,7 +177,8 @@
 
 - After performing the tasks, diagnose the performance of the workstation 
 
-<img width="500" alt="on or off" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/6c301535-1b34-4c9b-a6e3-20d10207331a">
+<img width="500" alt="11" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b698acd7-adf2-4a5e-9023-76909444663d">
+
 
 
 <h5>Documentation & Closure:</h5>
@@ -179,7 +187,8 @@
 - Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
 - Close the ticket within osTicket when Camina confirms the satisfactory resolution of the slow system performance issue or when the case is deemed resolved based on the follow-up assessments.
 
-<img width="591" alt="camina closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a43fa5ab-fb7a-4f1e-925c-0a750f806f79">
+<img width="591" alt="12" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b90f26fb-7896-4c7c-bc0a-e6b60c3ec3e2">
+
 
 
 <p><strong>.</strong></p>
@@ -198,7 +207,8 @@
 
 <br>
 
-<img width="593" alt="Screenshot 2024-02-16 094853" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/55359757-dda2-4507-9ed7-ee0aed93258a">
+<img width="593" alt="13" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/d6e44982-0360-4e40-b62d-fa340d2875fc">
+
 
 
 <br>
@@ -210,7 +220,7 @@
 
 - Engage in a threaded discussion within osTicket to gather more information about the issue.
 
-<img width="590" alt="alex k reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/cd96aaee-84c5-4b0f-a963-8e9275cc6944">
+<img width="590" alt="14" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/d0fed51c-fdcd-41ee-a180-41baf53af380">
 
 
 <h5> Remote Diagnosis:</h5>
@@ -218,9 +228,9 @@
 - Access Alex’s laptop through a remote desktop connection
 - Check device manager if the necessary drivers are installed
 
-<br>
+<be>
 
-<img width="350" alt="devmgmt" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/02b38f22-3489-44cd-a912-4d1728676ce6">
+<img width="350" alt="15" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/37fa2907-9b30-4719-869f-f35cfd999ca6">
 
 
 <h3> Specific Problem Identified:</h3>
@@ -232,7 +242,8 @@
 
 - Inform Alex through osTicket that the initial assessment indicates a potential driver-related issue with the camera after the Windows 11 upgrade
 
-<img width="592" alt="llll" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/00926f92-e76d-43c2-ace9-1ca45090e7a6">
+<img width="592" alt="16" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b9b0b36d-9597-42eb-9700-94060aa0c385">
+
 
 
 
@@ -241,7 +252,7 @@
 - Download the camera drivers from the manufacturers website and install the drivers manually
 - Reboot the system after making the changes to ensure proper implementation.
 
-<img width="592" alt="bigboi" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/fe5a3910-a379-4ea5-9c23-93f661e18789">
+<img width="592" alt="17" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/5ec7f66f-3bba-4c33-9439-86e768b4f17e">
 
 
 <h5>Documentation & Closure:</h5>
@@ -251,7 +262,8 @@
 - Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
 - Close the ticket within osTicket when Alex confirms the satisfactory resolution of the laptop camera issue
 
-<img width="592" alt="closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/36db4069-fbed-4628-988a-066745fc7115">
+<img width="592" alt="18" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b9f8b876-7e59-4d75-8ff2-f163011c128c">
+
 
 
 <p><strong>.</strong></p>
@@ -270,7 +282,7 @@
 
 <br>
 
-<img width="587" alt="AMOS" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/95197f73-b04f-4690-9b39-40fbdcf0f4c1">
+<img width="587" alt="19" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/41b2ffca-2d00-4199-96fa-fbde83009edf">
 
 
 
@@ -283,7 +295,7 @@
 
 - Initiate a detailed conversation with Amos through osTicket, asking for specifics about the devices he uses, the email client or service, and any error messages he has encountered.
 
-<img width="590" alt="amos2" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/452bf839-6c6c-4c00-87ff-999229276d30">
+<img width="590" alt="20" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/5f0e6fef-6eba-4ecd-a057-853ac4e89f6d">
 
 - Determine if the issue started after a particular update or change in settings.
 - Establish a remote desktop connection to further diagnose the problem
@@ -301,7 +313,7 @@
 - Change the email settings from POP3 to IMAP on both his smartphone and tablet.
 - Ensure that Amos's laptop is also configured to use IMAP for his email account, ensuring consistency across all devices.
 
-![pop_imap](https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/e1d1db7e-2804-43f2-8cb2-ca30e652c6d7)
+![21](https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/2b3a3014-e978-43ac-9a65-6aeef28c384e)
 
 
 <p><strong>Test email synchronization by instructing Amos  to send a test email to himself and check if it appears across all his devices.</strong></p>
@@ -315,7 +327,9 @@
 - Document all steps taken to resolve Amos's email synchronization issue within osTicket, including the initial problem identification, communication logs, and the resolution process.
 - Close the ticket within osTicket once Amos confirms the issue is resolved to his satisfaction, ensuring a record of the solution is available for future reference.
 
-<img width="589" alt="Amos3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5990ad12-8de9-4cdd-811d-3594185700fb">
+<img width="589" alt="22" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/4e2f9b5f-7831-498f-8973-be81145831a2">
+
+
 
 
 <p><strong>.</strong></p>
@@ -334,7 +348,8 @@
 
 <br>
 
-<img width="589" alt="Anderson ticket1" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/11854ae6-f5b5-4fe1-a4be-29cf945b5fbe">
+<img width="589" alt="23" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/5ebd97ae-dd2c-48cc-b833-f6523c907f79">
+
 
 
 
@@ -349,7 +364,8 @@
 - Communicate with Anderson and ask further questions about the problem
 - Establish a remote desktop connection to Anderson’s workstation to further diagnose the issue.
 
-<img width="588" alt="anderson 2" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ab69d01e-3d70-456e-982d-428b2edd182d">
+<img width="588" alt="24" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/e2e20f4d-2abb-4264-9617-88e6d50e19d3">
+
 
 
 <h3> Specific Problem Identified:</h3>
@@ -365,7 +381,8 @@
 - Update Printer IP Address on Anderson's Laptop
 - This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address. This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address.
 
-<img width="400" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/4dbe262a-bd46-4b65-aa6f-6ec1c563fec4">
+<img width="400" alt="25" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/ecc4af84-d8a7-47b1-a980-7b1234bd8677">
+
 
 
 <p><strong>Verify connectivity by attempting to print a test page.</strong></p>
@@ -379,17 +396,17 @@
 - Document the steps taken to resolve the issue within osTicket Additionally, update any internal IT documentation to reflect the new network configuration and troubleshooting steps for related issues.
 - Close the ticket once Anderson confirms the issue is resolved. 
 
-<img width="590" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7ee5a170-7cb1-49a3-ba9f-a896f3a58838">
+<img width="590" alt="26" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/a4500391-3f4d-40ba-81ba-28d8e0dba477">
 
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
 
 
-<h2>Final Thoughts and Key Insights</h2>
+<h2>Significant Insights & In Conclusion</h2>
 
 <p>
-This project serves as an essential guide for IT help desk agents and support teams, offering in-depth scenarios from granting administrative rights to resolving complex email synchronization issues. It highlights the critical role of a structured approach in IT troubleshooting, emphasizing key insights:</p>
+This project serves as an essential guide for IT help desk agents and support teams, offering in-depth scenarios from granting administrative rights to resolving complex email synchronization issues. It highlights the critical role of a structured approach in IT troubleshooting, emphasizing significant insights:</p>
 
 - Structured Problem-Solving: Importance of a step-by-step approach from problem identification to solution documentation.
 - User-Centric Communication: Keeping users informed is essential. Keeping users updated is key to trust and a positive experience.
