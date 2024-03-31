@@ -415,7 +415,7 @@ This project serves as an essential guide for IT help desk agents and support te
 
 <p>These points highlight the essentials of effective IT troubleshooting: methodical problem-solving, clear communication, adaptability, and thorough documentation.</p>
 
-<h1>Thank you! &#127881; </h1>
+<h1>Much obliged! &#127881; </h1>
 
 
 
