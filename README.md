@@ -2,32 +2,32 @@
 
 </p>
 
-<h1> osTicket: Ticket Resolution and Troubleshooting </h1>
+<h1> osTicket - Ticket Resolution and Troubleshooting </h1>
 
 
-<p>Welcome to "osTicket: Ticket Resolution and Troubleshooting." This project is designed to guide you through osTicket, a powerful open-source help desk solution, focusing on ticket resolution and troubleshooting. We will delve into the ticket lifecycle, from initiation to resolution, and examine troubleshooting strategies to address common issues. This project aims to empower IT professionals, help desk agents, and support teams to navigate challenges seamlessly, ensuring a smooth and effective support experience for end-users.</p>
+<p> This tutorial is designed to guide you through osTicket, a powerful open-source help desk solution, focusing on ticket resolution and troubleshooting. The ticket lifecycle will be explored, from the beginning of the matter to resolution, and troubleshooting strategies will be examinined to address common issues. This tutorial has as a goal to empower IT professionals, help desk agents, and support teams to navigate challenges without interruption, making sure a smooth and effective support experience is had for end-users.</p>
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/giovannibriones/osticket-prereqs"> osTicket - Prerequisites, Setup, and Installation </a>
+- <a href="https://github.com/giovannibriones/osticket-prereqs"> osTicket - Prerequisites and Installation </a>
 
-<h2>Key Objectives</h2>
+<h2>Main Objectives</h2>
 
 <h4>Mastering Ticket Resolution</h4>
 
-- Understand the complete lifecycle of a ticket within osTicket, from the initial intake to its successful resolution.
+- Understand the complete lifecycle of a ticket within osTicket, from the beginning of the intake process to its successful resolution.
 
 <h4>Efficient Troubleshooting Techniques</h4>
 
-- Explore and implement troubleshooting strategies for common IT issues, ensuring quick and effective problem-solving.
+- Explore and integrate troubleshooting strategies for common IT issues, ensuring quick and effective problem-solving.
 
 <h4>Enhancing User Satisfaction</h4>
 
-- Learn how to provide timely and effective support to end-users, fostering a positive experience and minimizing downtime.
+- Learn how to provide timely and effective support to end-users, promoting a positive experience and minimizing downtime.
 
 <h4>Building a Knowledge Base</h4>
 
-- Develop a comprehensive knowledge base that documents common issues and their resolutions, empowering both support teams and end-users.
+- Develop a comprehensive knowledge base that records common issues and their resolutions, empowering both support teams and end-users.
 
 
 
